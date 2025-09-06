@@ -1,0 +1,79 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* background: #222222; */
+}
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    height: 550px;
+    width:  450px;
+    background-color: #000000;
+}
+.ans{
+    background-color: #E5E0D8;
+    width: 70%;
+    height: 50px;
+    margin: 0 auto;
+    margin-top: 20px;
+}
+.rows{
+    margin-top: 30px;
+    background-color: #000000;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.big-operator{
+    height: 100px;
+    width: 100px;
+    background-color: #222222;
+    border-radius: 100px;
+    color: #D12424;
+    text-align: center;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.operator{
+    height: 50px;
+    width: 50px;
+    background-color: #222222;
+    color: #4ECE2A;
+    border-radius: 100px;
+    text-align: center;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.equals{
+    height: 50px;
+    width: 50px;
+    background-color: #222222;
+    color: #4ECE2A;
+    border-radius: 100px;
+    text-align: center;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.numbers{
+    height: 50px;
+    width: 50px;
+    background-color: #222222;
+    color: #ffffff;
+    border-radius: 100px;
+    text-align: center;
+    margin-right: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
