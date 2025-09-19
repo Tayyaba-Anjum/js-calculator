@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tayyaba Anjum</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on  basic [Calculator] that performs basic arithematic functions.
+- 🔭 I’m currently working on  basic [Calculator] that performs basic arithematic functions. (https://tayyaba-anjum.github.io/js-calculator/)
 
 - 🌱 I’m currently learning **html,css,javascript**
 
